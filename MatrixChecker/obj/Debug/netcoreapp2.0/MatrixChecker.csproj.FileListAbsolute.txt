@@ -1,0 +1,11 @@
+C:\AG\Green Fox Academy\szentgabor\csharp\MatrixChecker\MatrixChecker\MatrixChecker\bin\Debug\netcoreapp2.0\MatrixChecker.deps.json
+C:\AG\Green Fox Academy\szentgabor\csharp\MatrixChecker\MatrixChecker\MatrixChecker\bin\Debug\netcoreapp2.0\MatrixChecker.runtimeconfig.json
+C:\AG\Green Fox Academy\szentgabor\csharp\MatrixChecker\MatrixChecker\MatrixChecker\bin\Debug\netcoreapp2.0\MatrixChecker.runtimeconfig.dev.json
+C:\AG\Green Fox Academy\szentgabor\csharp\MatrixChecker\MatrixChecker\MatrixChecker\bin\Debug\netcoreapp2.0\MatrixChecker.dll
+C:\AG\Green Fox Academy\szentgabor\csharp\MatrixChecker\MatrixChecker\MatrixChecker\obj\Debug\netcoreapp2.0\MatrixChecker.csprojAssemblyReference.cache
+C:\AG\Green Fox Academy\szentgabor\csharp\MatrixChecker\MatrixChecker\MatrixChecker\obj\Debug\netcoreapp2.0\MatrixChecker.csproj.CoreCompileInputs.cache
+C:\AG\Green Fox Academy\szentgabor\csharp\MatrixChecker\MatrixChecker\MatrixChecker\obj\Debug\netcoreapp2.0\MatrixChecker.AssemblyInfoInputs.cache
+C:\AG\Green Fox Academy\szentgabor\csharp\MatrixChecker\MatrixChecker\MatrixChecker\obj\Debug\netcoreapp2.0\MatrixChecker.AssemblyInfo.cs
+C:\AG\Green Fox Academy\szentgabor\csharp\MatrixChecker\MatrixChecker\MatrixChecker\bin\Debug\netcoreapp2.0\MatrixChecker.pdb
+C:\AG\Green Fox Academy\szentgabor\csharp\MatrixChecker\MatrixChecker\MatrixChecker\obj\Debug\netcoreapp2.0\MatrixChecker.dll
+C:\AG\Green Fox Academy\szentgabor\csharp\MatrixChecker\MatrixChecker\MatrixChecker\obj\Debug\netcoreapp2.0\MatrixChecker.pdb

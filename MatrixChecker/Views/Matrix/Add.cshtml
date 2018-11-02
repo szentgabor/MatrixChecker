@@ -1,0 +1,21 @@
+﻿@model global::MatrixChecker.Models.Matrix
+@{
+    ViewData["Title"] = "add";
+}
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+</head>
+<body>
+    <div><h2>Matrix Checker</h2></div>
+    <div>
+        Check if your matrix is increasing! <br />
+        Add a matrix and sit back while the evaluation happens.
+    </div>
+    <form action="/addmatrix" method="post">
+        <textarea name="matrix"></textarea>
+        <button type="submit">Add a square matrix</button>
+    </form>
+</body>
+</html>
+

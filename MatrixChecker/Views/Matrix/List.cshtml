@@ -1,0 +1,30 @@
+﻿@model List<Matrix>
+@{
+    ViewData["Title"] = "Matrices";
+}
+
+<h2>Matrices</h2>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+</head>
+<body>
+    <table class="table table-striped">
+        <tr>
+            <th>ID</th>
+            <th>Matrix</th>
+            <th>Date</th>
+        </tr>
+        @foreach (var item in Model)
+        {
+
+            <tr>
+                <td>@item.ID</td>
+                <td>@item.MatrixArray</td>
+                <td>@item.CreatedDate</td>
+            </tr>}
+    </table>
+
+</body>
+</html>
